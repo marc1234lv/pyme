@@ -1,0 +1,3 @@
+pip install certifi==2023.5.7
+pip install charset-normalizer==3.0.1
+
