@@ -13,13 +13,3 @@ Babel==2.12.1
 Brotli==1.0.9
 Cython==0.29.33
 Shapely==1.8.5.post1
-aiofiles==23.1.0
-anyio==3.6.2
-astor==0.8.1
-bce-python-sdk==0.8.79
-cssselect==1.2.0
-cssutils==2.6.0
-fastapi==0.95.0
-ffmpy==0.3.0
-flask-babel==3.0.1
-future==0.18.3
