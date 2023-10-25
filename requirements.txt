@@ -1,5 +1,5 @@
-GitPython==3.1.30
-Pillow==9.4.0
+GitPython==3.1.35
+Pillow==10.0.1
 PyYAML==6.0
 attrs==23.1.0
 bandit==1.7.4
