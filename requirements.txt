@@ -1,3 +1,7 @@
+aiofiles==23.1.0
+anyio==3.6.2
+astor==0.8.1
+bce-python-sdk==0.8.79
 cssselect==1.2.0
 cssutils==2.6.0
 fastapi==0.95.0
