@@ -76,7 +76,7 @@ speechpy==2.4
 stack-data==0.6.2
 statsmodels==0.13.5
 tokenizers==0.13.2
-transformers==4.27.4
+transformers==4.36.0
 virtualenv==20.21.0
 webrtcvad==2.0.10
 widgetsnbextension==4.0.7
@@ -95,3 +95,4 @@ pycocotools==2.0.6
 pycodestyle==2.10.0
 pydot==1.4.2
 pyflakes==3.0.1
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
