@@ -76,7 +76,7 @@ speechpy==2.4
 stack-data==0.6.2
 statsmodels==0.13.5
 tokenizers==0.13.2
-transformers==4.27.4
+transformers==4.50.0
 virtualenv==20.21.0
 webrtcvad==2.0.10
 widgetsnbextension==4.0.7
